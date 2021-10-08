@@ -1,11 +1,17 @@
 class Main {
     public static void main(String[ ] args) {
-        var tommy = new Cat("Tommy");
-        var jerry = new Dog("Jerry");
-        var pierre = new Skunk();
+        // Create a bunch of animals
+        var animals = new Animal[] {
+            new Cat("Tommy"),
+            new Cat("Felix"),
+            new Dog("Jerry"),
+            new Skunk(),
+            new Skunk("Pierre")
+        };
 
-        System.out.println(tommy);
-        System.out.println(jerry);
-        System.out.println(pierre);
+        // Let each animal print themselves
+        for (var animal: animals) {
+            System.out.println(animal);
+        }
     }
 }

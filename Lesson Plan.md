@@ -14,7 +14,7 @@ This plan will use scaffolding and cognitive apprenticeship to demonstrate how O
 
 ## Instruction Sequence
 
-### Simple animals
+### Simple Animals
 1. Define classes for a Cat and a Dog with the same properties and methods.  Define a class for a Skunk that shares some properties with the other animals
     1. Do the properties make sense?  What would you add or change?
     1. There are some duplicate definitions between the classes, do you see a problem with this?
@@ -26,7 +26,7 @@ This plan will use scaffolding and cognitive apprenticeship to demonstrate how O
             1. How would you store the age, which changes every day, of an animal?
             1. Can you see how tedious it is to update all the animal classes?
 
-### Expanding the kingdom
+### Expanding the Kingdom
 1. Consolidate common properties and methods into an Abstract Animal class, and simplify the other animal classes
     1. Implement the “toString” method in the abstract class to demonstrate inversion of control
     1. Can we further abstract the animals to reduce more repetition of code?
