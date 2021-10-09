@@ -19,6 +19,11 @@ public class Skunk {
         return 4;
     }
 
+    // The given (pet) name of the animal
+    public String name() {
+        return this._name;
+    }
+
     public String toString() {
         return String.format("Hi, I'm %s, a %s.", this.name(), this.species());
     }
