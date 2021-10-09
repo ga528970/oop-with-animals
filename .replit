@@ -1,0 +1,2 @@
+language = "java10"
+run = "pushd \"1 - Simple Animals/Java\";javac Main.java; java Main; popd"
