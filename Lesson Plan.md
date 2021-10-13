@@ -47,8 +47,8 @@ This plan will use scaffolding and cognitive apprenticeship to demonstrate how O
 
 ### Super Animals
 1. Imaging evolving animals to be capable of other things like being able to compete with each other and any other thing that implements `ICompetable`.  Given two things that can compete with each other, what creative ways could you determine which one would win?
-    1. Consider the circumstances like the current date and time.  Some things may be stronger in the dark!
-    1. Could you somehow rank the animals?  Implement IComparable
+    1. Consider the circumstances like the current date and time.  Some animals may be stronger in the dark!
+    1. Could you somehow rank the animals?  Implement an `IComparable` interface
 1. Optional: gamification
     1. Let the user select and configure two or more animals
     1. In a series of rounds, roll a dice and let the animals compete
