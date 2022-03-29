@@ -24,12 +24,12 @@ This plan will use scaffolding and cognitive apprenticeship to demonstrate how O
 
 1. I can use **parent classes** to consolidate common properties and methods
 2. I can use **abstract classes** to define broader, categorical types
-3. I think of inheritance as types and sub-types; for example, a cat **is a** domestic animal; a domestic animal** is an** animal; a heart **is an** organ; an organ** is a** body part; etc.
+3. I think of inheritance as types and sub-types; for example, a cat **is a** domestic animal; a domestic animal **is an** animal; a heart **is an** organ; an organ **is a** body part; etc.
 
 ### Interfaces
 
 1. I can use interfaces to define **capabilities** that can be implemented by class
-2. I can think of interfaces as abilities; for example, a domestic animal** can be** sold; cat food **can be** sold; a car** can be** sold; animals **can be** sorted; animals **can** compete; etc.
+2. I can think of interfaces as abilities; for example, a domestic animal **can be** sold; cat food **can be** sold; a car **can be** sold; animals **can be** sorted; animals **can** compete; etc.
 
 ## Instruction Sequence
 
